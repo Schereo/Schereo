@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/schereo" target="blank"><img src="https://img.shields.io/twitter/follow/schereo?logo=twitter&style=for-the-badge" alt="schereo" /></a> </p>
 
-- 🔭 I’m currently working on a [Blockchain-as-a-Service platform ⛓️](www.spyce5.com) 
+- 🔭 I’m currently working on a [Blockchain-as-a-Service platform ⛓️](https://www.spyce5.com) 
 
 - 🌱 I’m currently learning **AWS DevOps, Web3**
 
-- 👷🏽‍♂️ Projects I build: [Decentralized Identity Demo 🪪](eshop-poc.solutions.iota.org)
+- 👷🏽‍♂️ Projects I build: [Decentralized Identity Demo 🪪](https://eshop-poc.solutions.iota.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
