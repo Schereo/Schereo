@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/schereo" target="blank"><img src="https://img.shields.io/twitter/follow/schereo?logo=twitter&style=for-the-badge" alt="schereo" /></a> </p>
 
-- 🔭 I’m currently working on a [Blockchain-as-a-Service platform ⛓️](https://www.spyce5.com) 
+- 🔭 I’m currently working on becoming a master a Web3 security
 
-- 🌱 I’m currently learning **AWS DevOps, Web3**
+- 🌱 I’m currently learning **Solidity / Web3 Security**
 
 - 👷🏽‍♂️ Projects I build: [Decentralized Identity Demo 🪪](https://eshop-poc.solutions.iota.org/)
 
