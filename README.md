@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/schereo" target="blank"><img src="https://img.shields.io/twitter/follow/schereo?logo=twitter&style=for-the-badge" alt="schereo" /></a> </p>
 
-- 🔭 I’m currently working on becoming a master a Web3 security
+- 🔭 I’m currently working on becoming a master in Web3 security
 
 - 🌱 I’m currently learning **Solidity / Web3 Security**
 
