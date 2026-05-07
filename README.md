@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/schereo" target="blank"><img src="https://img.shields.io/twitter/follow/schereo?logo=twitter&style=for-the-badge" alt="schereo" /></a> </p>
 
-- 🔭 I’m currently working on becoming a master in Web3 security
-
-- 🌱 I’m currently learning **Solidity / Web3 Security**
-
-- 👷🏽‍♂️ Projects I build: [Decentralized Identity Demo 🪪](https://eshop-poc.solutions.iota.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
