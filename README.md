@@ -33,4 +33,4 @@
 
 ### `~/toolbox`
 
-`Solidity` `Yul` `Foundry` · `Circom` `Noir` · `Python` `TypeScript` `Svelte` `Swift`
+`Solidity` `Yul` `Foundry` · `Noir` · `Python` `TypeScript` `Svelte` `Swift`
