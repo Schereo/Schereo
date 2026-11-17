@@ -14,7 +14,7 @@
 
 | Date | Protocol | Scope | Findings |
 | :-- | :-- | :-- | :-- |
-| `2026-03` | [**Polymarket** ↗](https://certificate.quantstamp.com/full/polymarket-ctf-exchange-v-2/a1376c48-8551-4568-a1ed-d5e499061477/index.html) | CTF Exchange v2 | 5, all fixed |
+| `2026-03` | [**Polymarket** ↗](https://certificate.quantstamp.com/full/polymarket-ctf-exchange-v-2/a1376c48-8551-4568-a1ed-d5e499061477/index.html) | CTF Exchange v2 | 5 |
 | `2025-04` | [**Trust Wallet** ↗](https://strapi-cdn.trustwallet.com/Quantstamp_TW_Smart_Account_Short_version_no_findings_f57d9e0837.pdf) | ERC-4337 smart account | 6 |
 | `2025-04` | [**Alchemy** ↗](https://certificate.quantstamp.com/full/alchemy-erc-4337-paymasters/26692985-f0ac-496a-afea-9e00184d0995/index.html) | ERC-4337 paymasters | 9 |
 
