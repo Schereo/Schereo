@@ -1,6 +1,6 @@
 <p>
   <a href="https://timsigl.de">
-    <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami prints Tim Sigl, auditing engineer at Quantstamp. Focus: ERC-4337, smart accounts, paymasters, staking protocols. Public audits: Polymarket, Trust Wallet, Alchemy." />
+    <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami prints Tim Sigl, auditing engineer at Quantstamp. Focus: ERC-4337, smart accounts, paymasters, prediction markets. Public audits: Polymarket, Trust Wallet, Alchemy." />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ### `~/focus`
 
 - **Account abstraction:** wallet factories, validation flows, signature schemes, bundler edge cases
-- **Staking:** deposit queues, withdrawal paths, reward accounting
+- **Prediction markets:** order matching, conditional tokens, settlement and resolution
 
 ### `~/side-projects`
 
