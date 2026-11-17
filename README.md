@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Enthusiastic about building a secure, scalable and decentralized future with Web3 ⛓️🌏</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schereo" alt="schereo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/schereo" target="blank"><img src="https://img.shields.io/twitter/follow/schereo?logo=twitter&style=for-the-badge" alt="schereo" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/schereo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="schereo" height="30" width="40" /></a>
+<p>
+  <a href="https://timsigl.de">
+    <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami prints Tim Sigl, auditing engineer at Quantstamp. Focus: ERC-4337, smart accounts, paymasters, staking protocols. Public audits: Polymarket, Trust Wallet, Alchemy." />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://timsigl.de"><img src="https://img.shields.io/badge/timsigl.de-0a0d12?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGFkZTk2IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMi44IDMuMiAyLjggMTQuOCAwIDE4TTEyIDNjLTIuOCAzLjItMi44IDE0LjggMCAxOCIvPjwvc3ZnPg%3D%3D" alt="timsigl.de" /></a>
+  <a href="https://quantstamp.com/auditors"><img src="https://img.shields.io/badge/Quantstamp-0a0d12?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGFkZTk2IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDIuNSAxOS41IDUuNXY1LjhjMCA0LjYtMy4yIDguNC03LjUgMTAuMi00LjMtMS44LTcuNS01LjYtNy41LTEwLjJWNS41eiIvPjxwYXRoIGQ9Im04LjUgMTIgMi41IDIuNSA0LjUtNSIvPjwvc3ZnPg%3D%3D" alt="Quantstamp" /></a>
+  <a href="https://github.com/Schereo/security-reports"><img src="https://img.shields.io/badge/security--reports-0a0d12?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGFkZTk2IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDIuNUg2LjVhMS41IDEuNSAwIDAgMC0xLjUgMS41djE2YTEuNSAxLjUgMCAwIDAgMS41IDEuNWgxMWExLjUgMS41IDAgMCAwIDEuNS0xLjVWNy41eiIvPjxwYXRoIGQ9Ik0xNCAyLjV2NWg1TTguNSAxM2g3TTguNSAxN2g1Ii8%2BPC9zdmc%2B" alt="security-reports" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schereo&show_icons=true&locale=en" alt="schereo" /></p>
+### `~/audits`
+
+| Date | Protocol | Scope | Findings |
+| :-- | :-- | :-- | :-- |
+| `2026-03` | [**Polymarket** ↗](https://certificate.quantstamp.com/full/polymarket-ctf-exchange-v-2/a1376c48-8551-4568-a1ed-d5e499061477/index.html) | CTF Exchange v2 | 5, all fixed |
+| `2025-04` | [**Trust Wallet** ↗](https://strapi-cdn.trustwallet.com/Quantstamp_TW_Smart_Account_Short_version_no_findings_f57d9e0837.pdf) | ERC-4337 smart account | 6 |
+| `2025-04` | [**Alchemy** ↗](https://certificate.quantstamp.com/full/alchemy-erc-4337-paymasters/26692985-f0ac-496a-afea-9e00184d0995/index.html) | ERC-4337 paymasters | 9 |
+
+<sub>Contests, Aug 2024: [Tadle](https://github.com/Schereo/security-reports/blob/main/2024-08-12_tadle-audit.pdf) (CodeHawks) · [Fjord](https://github.com/Schereo/security-reports/blob/main/2024-08-27_fjord-audit.pdf) · [Rumpel](https://github.com/Schereo/security-reports/blob/main/2024-08-29_rumpel-audit.pdf). All reports, including practice audits: [security-reports](https://github.com/Schereo/security-reports).</sub>
+
+### `~/focus`
+
+- **Account abstraction:** wallet factories, validation flows, signature schemes, bundler edge cases
+- **Staking:** deposit queues, withdrawal paths, reward accounting
+
+### `~/side-projects`
+
+- [**Ratslotse**](https://github.com/Schereo/Ratslotse): search and Q&A over Oldenburg's city council records, web and iOS
+- [**noctua**](https://github.com/Schereo/noctua): AI-first mail client for macOS, local-first, bring your own key
+- [**localvoice**](https://github.com/Schereo/localvoice): local dictation for macOS on Apple Silicon (MLX)
+
+### `~/toolbox`
+
+`Solidity` `Yul` `Foundry` · `Circom` `Noir` · `Python` `TypeScript` `Svelte` `Swift`
